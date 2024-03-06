@@ -25,7 +25,7 @@ public class Main {
         try {
 
             System.out.println("Ingreso en cuenta de " + x + "€");
-            miCuentaDorantesGonzalezJoseAntonio2324T4.ingresar(x, (ERROR));
+            miCuentaDorantesGonzalezJoseAntonio2324T4.ingresar(x, (ERROR);
         } catch (Exception e) {
             System.out.print("Fallo al ingresar");
         }
